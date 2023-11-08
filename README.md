@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pacisjules best senior on any software and i am fullstack Developer
+- 👋 Hello, I'm @pacisjules, a highly skilled senior software developer with expertise in full-stack development.
 - 👀 I’m interested in Coding with Javascript, Python, C# and Java
 - 📫 How to reach me Contact to me on E-mail: pacisjules@gmail.com
 
